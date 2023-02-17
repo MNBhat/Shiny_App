@@ -1,0 +1,13 @@
+name: Demo
+title: Demo
+username:
+account: mehwish
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8340100
+bundleId: 6856853
+url: https://mehwish.shinyapps.io/Demo/
+when: 1676618111.55932
+lastSyncTime: 1676618111.55933
+asMultiple: FALSE
+asStatic: FALSE
